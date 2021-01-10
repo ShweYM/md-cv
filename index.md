@@ -2,7 +2,7 @@
 layout: cv
 title: Ben Moore's CV
 ---
-# Benjamin L. Moore
+# Shwe Yamone Oo
 Bioinformatics PhD and data scientist
 
 <div id="webaddress">
